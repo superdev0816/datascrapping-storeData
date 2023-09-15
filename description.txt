@@ -1,0 +1,10 @@
+I want a python script that takes a list of website addresses (example provided, all the same format) then scrapes the page. The page contains headings linked to webpages. if the heading contains certain phrases “(beneficial owner” “Holding(s) in Company”, ”Purchase of Shares”, “ Director/PDMR Shareholding” in any case letters, “Holding in Company”), then I want to save the link to a spreadsheet.
+Attached is an example output containing the output from the 4 website pages and the scrapings from them.
+
+
+
+I also enclose a third spreadsheet (ownershipCheck) with a longer list of links I will be trying the program on.
+
+https://sendgb.com/KZ5HWVc2uxn
+
+f&^(@$vHH6nmQ3M@W8
